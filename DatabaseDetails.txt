@@ -1,0 +1,11 @@
+tables:
+1.booklist
+2.issue_register
+3.return_register
+4.studentnames
+5.teachernames
+
+modules:
+admin-add book,delete book,add staff,delete staff
+staff-issue book,return book,add student,delete student
+
